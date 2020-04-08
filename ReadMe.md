@@ -12,7 +12,7 @@ You will find our milestone activitities in this repo as follows:
 |3|Completed|[Milestone 3 Repo](https://github.com/STAT547-UBC-2019-20/group_06/tree/master/Milestone_3) |[MS3Completed](https://github.com/STAT547-UBC-2019-20/group_06/releases/tag/MS3v1.0)| 
 |4|Completed|[Milestone 4 Repo](https://github.com/STAT547-UBC-2019-20/group_06/tree/master/Milestone_4) [Milestone 4 html](https://stat547-ubc-2019-20.github.io/group_06//Milestone_4/docs/final_report.html)|[Milestone 4 Completed](https://github.com/STAT547-UBC-2019-20/group_06/releases/tag/MS4v1.0)|
 |5|Completed|[App.R](http://127.0.0.1:8050) *Note: only works after going through usage in Milestone_5 folder*|[Milestone 5 Completed](https://github.com/STAT547-UBC-2019-20/group_06/releases/tag/MS5v1.0)|
-|6||||
+|6|Completed|[Heroku app](https://milestone-06.herokuapp.com)||
 
 # Dashboard Proposal
 
