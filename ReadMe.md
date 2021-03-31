@@ -1,7 +1,7 @@
 # Introduction
 
 
-Hello!! We are STAT 547M Students (Saelin and Carleena) and this is our group project repository.
+Hello! We are STAT 547M Students (Saelin and Carleena) and this is our group project repository.
 
 You will find our milestone activitities in this repo as follows:
 
